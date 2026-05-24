@@ -1,0 +1,27 @@
+# Node / React
+node_modules/
+dist/
+build/
+.eslintcache
+npm-debug.log*
+
+# Docker & Database
+postgres_data/
+.env
+
+# Java / Spring Boot
+backend/target/*
+!backend/target/*.jar
+*.class
+*.war
+.m2/
+
+PRESENTATION.md
+TECHNICAL_REPORT.md
+
+# IDEs
+.vscode/
+.idea/
+.idea.bak/
+*.iml
+*.swp
